@@ -20,7 +20,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'The GEP User Guide'
-copyright = '2019, KTH dESA'
+copyright = '2019, The Global Electrification Platform'
 author = 'KTH dESA'
 
 # The short X.Y version
