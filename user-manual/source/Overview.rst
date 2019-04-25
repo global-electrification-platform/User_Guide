@@ -6,9 +6,9 @@ Scope
 
 The GEP is an open portal for electrification investment data, analysis and research. It is being designed upon the principles of openness and transparency and aspires to enable reusability, replicability and reproducibility of embedded processes and data. Based on these principles, GEP output is available in three levels:
 
-* **Level 1 - The GEP "Explorer"**: Up-to-date and openly accessible electrification investment outlooks
-* **Level 2 - The GEP "Scenario Generator"**: Flexible, modular and open source software and modelling tools
-* **Level 3 - The GEP "Toolbox"**: Open access and fully-fledged documentation and training material
+* **Level 1 - the GEP "Explorer"**: Up-to-date and openly accessible electrification investment outlooks
+* **Level 2 - the GEP "Scenario Generator"**: Flexible, modular and open source software and modelling tools
+* **Level 3 - the GEP "Toolbox"**: Open access and fully-fledged documentation and training material
 
 .. figure::  images/Overall_GEP_Architecture.jpg
    :align:   center
