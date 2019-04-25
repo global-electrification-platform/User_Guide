@@ -1,11 +1,8 @@
 The GEP Explorer
 ============================
 
-Access GEP Explorer services
-************************************
-
-A pilot version of the **GEP Explorer** is available `here. <http://gep-explorer.surge.sh/>`_
-
+Access GEP Explorer services `here. <http://gep-explorer.surge.sh/>`_
+***************************************************************************
 
 Overview
 ******************************************
