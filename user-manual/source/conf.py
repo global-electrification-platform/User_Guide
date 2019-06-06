@@ -26,7 +26,7 @@ author = 'KTH dESA'
 # The short X.Y version
 version = 'Version 2019.0'
 # The full version, including alpha/beta/rc tags
-release = '01-06-2019'
+release = '09-06-2019'
 
 
 # -- General configuration ---------------------------------------------------
@@ -39,6 +39,7 @@ release = '01-06-2019'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -153,3 +154,11 @@ texinfo_documents = [
      author, 'TheGEPUserManual', 'One line description of project.',
      'Miscellaneous'),
 ]
+
+from recommonmark.parser import CommonMarkParser
+
+source_parsers = {
+    '.md': CommonMarkParser,
+}
+
+source_suffix = ['.rst', '.md']

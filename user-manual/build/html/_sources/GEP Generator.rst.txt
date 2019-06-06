@@ -1,4 +1,4 @@
-The GEP Scenario Generator
+﻿The GEP Scenario Generator
 ==================================
 
 Access GEP Scenario Generator services `here. <https://github.com/KTH-dESA/The-GEP/tree/The-GEP-Scenario-Generator>`_
@@ -35,6 +35,3 @@ The GEP Scenario Generator aims to support specific key services:
 
     a. Provides analysts with the ability to move beyond pre-cooked results provided in the GEP “Explorer” to more nuanced scenarios. Scenarios that are flexible to conditional national constraints for goals: developing detailed policy, engaging with financiers, exploring technology deployment and market potentials etc.
     b.  Being cost-free enables the GEP community to develop first order electrification plans rapidly at a drastically reduced cost. These can be used in country engagement activities.
-
-
-
