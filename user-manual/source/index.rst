@@ -23,6 +23,7 @@ Contents
    GEP Generator.md
    GEP Toolbox.md
    Interoperability.md
+   GEP Capacity Building.md
    Contact.md
 
 
