@@ -26,7 +26,7 @@ A [peer-reviewed academic publication](https://doi.org/10.3390/en12071395) suppo
 
 The identification of population settlements is the basis of the electrification analysis in many models.
 In GEP population settlements are represented as vector clusters. [KTH dESA](https://github.com/global-electrification-platform/Clustering) 
-has developed a methodology for generating such vector clusters based on open access data. In the interests of transparency and replicability, KTH dESA has also developed an open source [Q-GIS plug-in](https://github.com/KTH-dESA/Clustering).
+has developed a methodology for generating such vector clusters based on open access data. In the interests of transparency and replicability, KTH dESA has also developed an open source [Q-GIS plug-in](https://github.com/global-electrification-platform/Clustering).
 In addition, a more detailed description of the methodology is available [here](https://doi.org/10.3390/en12071395). 
 
 <div class="note">

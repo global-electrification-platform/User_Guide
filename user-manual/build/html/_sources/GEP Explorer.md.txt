@@ -1,10 +1,10 @@
-# GEP Explorer
+﻿# GEP Explorer
 
-## Access GEP Explorer service [here](http://gep-explorer.surge.sh/)
+## Access GEP Explorer service [here](http://www.globalelectrificationplatform.com/)
 
 ## Overview
 
-The GEP Explorer is an open access, interactive, online platform that allows overview of electrification investment scenarios for a selection of countries. The scenarios present how to achieve universal electricity access in two steps. The first step is an outlook for an intermediate investment strategy (up to 2025). The second is explores full electrification by 2030. The user is able to easily move through 144 scenario combinations to meet the access goals.
+The GEP Explorer is an open access, interactive, online platform that allows overview of electrification investment scenarios for a selection of countries. The scenarios present how to achieve universal electricity access in two steps. The first step is an outlook for an intermediate investment strategy (up to 2025). The second is explores full electrification by 2030. The user is able to easily move through 216 scenario combinations to meet the access goals.
 
 ![](images/GEP_Explorer_1.jpg)
 
@@ -21,7 +21,7 @@ The process is open to everyone\!
 
 </div>
 
-Informing the 144 electrification investment scenarios was based on two types of data; GIS related and non-GIS related. Both have been collected and cured based on suggested guidelines available [here](https://drive.google.com/file/d/1O3N1vrGJtLEPN4_3_KxJDxqc4cCEo2H9/view?usp=sharing).
+Informing the 216 electrification investment scenarios was based on two types of data; GIS related and non-GIS related. Both have been collected and cured based on suggested guidelines available [here](https://drive.google.com/file/d/1O3N1vrGJtLEPN4_3_KxJDxqc4cCEo2H9/view?usp=sharing).
 
 </div>
 
