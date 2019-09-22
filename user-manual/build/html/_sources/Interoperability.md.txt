@@ -44,6 +44,5 @@ A process will be set up for active updating in collaboration with partners
 such that the latest available modelling, data and analysis is both used and compatible with
 the GEP. Similarly, each year, advances in standards and updated teaching material will be released.
 
-The first preview of the GEP is planned for the [Optimus Community
-Summer School](http://indico.ictp.it/event/8751/) in June 2019. Official release will be made in the last quarter of each year. 
-Calls for inputs and collaboration for the next year's release will be made by the end of 2019.
+Official release of the annual update is expected to take place in the last quarter of each year. 
+Call for inputs and collaboration will be made after the annual release.
