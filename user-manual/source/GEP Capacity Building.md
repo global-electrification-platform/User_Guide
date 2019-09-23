@@ -14,6 +14,6 @@ Almost 20 countries in Sub Saharan African (SSA) have already participated in re
 
 **Regional capacity building efforts under ESMAP during 2018 and 2019**
 
-![](images/GEP_Capac_Map.JPG)
+![](images/GEP_Capac_Map.jpg)
 
 If you are interested in participating in the training as either a participant or as a trainer, please do not hesitate to contact the [GEP Team](https://gep-user-guide.readthedocs.io/en/latest/Contact.html).
