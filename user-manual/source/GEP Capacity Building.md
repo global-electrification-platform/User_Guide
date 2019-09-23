@@ -4,3 +4,4 @@ An important aspect of the GEP is capacity building, it is an important complime
 2. Trieste, June 2018
 3. South Africa, January 2019
 4. Trieste, June 2019
+![](images/GEP_Capac_Map.jpg.jpg)
