@@ -6,9 +6,9 @@ The capacity building activities are focused on geospatial across governments, d
 ## Past Capacity Building Activities 
 So far, the following capacity building activities have been hosted as part of this initiative: 
 1. Ethiopia, Addis Ababa, January 2018  
-2. [Italy, Trieste, June 2018](https://global-electrification-platform.github.io/User_Guide/user-manual/source/PDFs/Summary_SDSS_Trieste2018_public_version.pdf)
-3. [South Africa, Cape Town, January 2019](https://global-electrification-platform.github.io/User_Guide/user-manual/source/PDFs/Summary_EMP-A_2019_public_version.pdf)
-4. [Italy, Trieste, June 2019](https://global-electrification-platform.github.io/User_Guide/user-manual/source/PDFs/Summary_SDSS_Trieste2019_public_version.pdf)
+2. Italy, Trieste, June 2018  
+3. South Africa, Cape Town, January 2019  
+4. Italy, Trieste, June 2019  
 
 More than 70 trainees have already participated in regional training efforts hosted by the World Bank. Most of the trainees were from Sub Saharan African (SSA) countries. In total, the capacity building activities received trainees from almost 20 SSA countries. This accounts for about 40 % of all SSA countries. Beyond SSA, the training sessions also received participants from other countries, such as Tunisia, Haiti, Myanmar, Brazil, Uruguay, Afganistan and Italy. The Figure below indicates the countries that successfully received training during 2019 in turquoise and 2018 in hashed. 
 
