@@ -10,7 +10,7 @@ So far, the following capacity building activities have been hosted as part of t
 3. South Africa, Cape Town, January 2019  
 4. Italy, Trieste, June 2019  
 
-More than 70 trainees have already participated in regional training efforts hosted by the World Bank. Most of the trainees were from Sub Saharan African (SSA) countries. In total, the capacity building activities received trainees from almost 20 SSA countries. This accounts for about 40 % of all SSA countries. Beyond SSA, participants from Tunisia, Haiti and Myanmar also received training. The Figure below indicates the countries that successfully received training during 2019 in turquoise and 2018 in hashed. 
+More than 70 trainees have already participated in regional training efforts hosted by the World Bank. Most of the trainees were from Sub Saharan African (SSA) countries. In total, the capacity building activities received trainees from almost 20 SSA countries. This accounts for about 40 % of all SSA countries. Beyond SSA, the training sessions also received participants from other countries, such as Tunisia, Haiti, Myanmar, Brazil, Uruguay, Afganistan and Italy. The Figure below indicates the countries that successfully received training during 2019 in turquoise and 2018 in hashed. 
 
 **Capacity building efforts in 2018 and 2019**
 
