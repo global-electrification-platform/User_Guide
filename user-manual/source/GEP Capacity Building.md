@@ -14,5 +14,5 @@ More than 70 trainees have already participated in regional training efforts hos
 
 **Capacity building efforts in 2018 and 2019**
 
-![](images/GEP_Capacity_Building_Map_complete.jpg)
+![](images/GEP_Cap_Building_Map_complete.jpg)
 
