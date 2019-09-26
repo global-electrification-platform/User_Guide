@@ -24,6 +24,7 @@ Contents
    GEP Toolbox.md
    Interoperability.md
    GEP Capacity Building.md
+   GEP Data Standards.md
    Contact.md
 
 
