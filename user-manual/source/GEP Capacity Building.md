@@ -1,4 +1,4 @@
-# Capacity Building
+# Capacity Building 2
 Capacity Building is a main pillar of the Global Electrification Platform (GEP) Initiative. Open-source tools and data are emphasized for the training as they play a crucial role in national energy modelling capabilities needed by countries to achieve universal access to modern energy services by 2030 (SDG7).  
 
 The capacity building activities are focused on geospatial across governments, development partners and private sector agents. The GEP team has run four capacity building events and has established an annual training in Trieste, Italy in June. If you are interested in participating in the training as either a participant or as a trainer, please do not hesitate to contact the [GEP Team](https://gep-user-guide.readthedocs.io/en/latest/Contact.html). 
