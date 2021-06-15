@@ -25,8 +25,6 @@ The users are able to replicate the electrification investment scenarios availab
 
 The GEP Generator can be ran locally on the user's computer without any dependency on online servers.
 
-The GEP Generator is still in pilot mode and under development. A fully fledged version is expected to be launched after **OpTIMUS Summer School** in June 2019, Trieste.
-
 </div>
 
 ## Target Audience 
