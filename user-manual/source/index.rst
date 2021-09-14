@@ -1,7 +1,7 @@
 Welcome to The GEP User's Guide!
 ===============================================
 
-.. figure::  images/consortium.JPG
+.. figure::  images/consortium_updated.JPG
    :align:   center
 
 The Global Electrification Platform (GEP)
