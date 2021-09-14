@@ -18,7 +18,7 @@ describing several characteristics that are important in the integration
 process. These include type, format, source, author and licence among
 others.
 
-The list is available [here](https://drive.google.com/file/d/1O3N1vrGJtLEPN4_3_KxJDxqc4cCEo2H9/view)
+The list is available [here](https://drive.google.com/file/d/1O3N1vrGJtLEPN4_3_KxJDxqc4cCEo2H9/view).
 
 <div class="note">
 

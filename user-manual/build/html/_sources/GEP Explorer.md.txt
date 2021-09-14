@@ -1,16 +1,16 @@
 ﻿# GEP Explorer
 
-## Access GEP Explorer service [here](http://www.globalelectrificationplatform.com/)
+## Access GEP Explorer service [here](https://electrifynow.energydata.info/)
 
 ## Overview
 
-The GEP Explorer is an open access, interactive, online platform that allows overview of electrification investment scenarios for a selection of countries. The scenarios present how to achieve universal electricity access in two steps. The first step is an outlook for an intermediate investment strategy (up to 2025). The second is explores full electrification by 2030. The user is able to easily move through 216 scenario combinations to meet the access goals.
+The GEP Explorer is an open access, interactive, online platform that allows overview of electrification investment scenarios for a selection of countries. The scenarios present how to achieve universal electricity access in two steps. The first step is an outlook for an intermediate investment strategy (up to 2025). The second is explores full electrification by 2030. The user is able to easily move through 96 scenario combinations to meet the access goals.
 
-![](images/GEP_Explorer_4.JPG)
+![](images/GEP_Explorer_1.2.JPG)
 
-GEP Explorer allows customized rendering. The user can also select base maps and other available layers that illustrate the country’s electrification status and overlay them with results from the electrification investment scenarios.
+GEP Explorer allows customized rendering. The user can also select base maps and other available layers (e.g., location of Health & Education facilities) and overlay them with results from the electrification investment scenarios.
 
-![](images/GEP_Explorer_5.JPG)
+![](images/GEP_Explorer_2.2.JPG)
 
 The number, type and parameterization of electrification investment scenarios along with their inherent assumptions are presented in the following slides in the form of 'levers'. In the next phase of the project, both scenarios and assumptions will derive from the annual GEP update.
 The process is open to everyone\!
@@ -21,7 +21,7 @@ The process is open to everyone\!
 
 </div>
 
-Informing the 216 electrification investment scenarios was based on two types of data; GIS related and non-GIS related. Both have been collected and cured based on suggested guidelines available [here](https://drive.google.com/file/d/1O3N1vrGJtLEPN4_3_KxJDxqc4cCEo2H9/view?usp=sharing).
+Informing the 96 electrification investment scenarios was based on two types of data; GIS related and non-GIS related. Both have been collected and cured based on suggested guidelines available [here](https://drive.google.com/file/d/1O3N1vrGJtLEPN4_3_KxJDxqc4cCEo2H9/view?usp=sharing).
 
 </div>
 

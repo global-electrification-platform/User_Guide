@@ -50,6 +50,6 @@ The GEP aspires therefore to attract four primary target audiences:
 
 </div>
 
-The GEP (in its current format and version) is built upon characteristics and functionalities of the Open Source Spatial Electrification Tool ([OnSSET](http://www.onsset.org/)). The GEP team is however currently working in collecting feedback from other institutions active in the geospatial electrification modelling (Columbia University, MIT, NRECA, RLI and others) in order to update and expand GEP's interoperability.
+The GEP (in its current format and version) is built upon characteristics and functionalities of the Open Source Spatial Electrification Tool ([OnSSET](http://www.onsset.org/)). The GEP team is constantly working on collecting feedback from other institutions active in the geospatial electrification modelling (Columbia University, MIT, NRECA, RLI and others) in order to update and expand GEP's interoperability.
 
 </div>

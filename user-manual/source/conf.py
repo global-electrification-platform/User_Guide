@@ -20,13 +20,13 @@
 # -- Project information -----------------------------------------------------
 
 project = 'The GEP User Guide'
-copyright = '2019, The Global Electrification Platform'
-author = 'KTH dESA'
+copyright = '2021, The Global Electrification Platform'
+author = 'KTH dES & The World Bank'
 
 # The short X.Y version
-version = 'Version 2019.0'
+version = 'Version 2021.0'
 # The full version, including alpha/beta/rc tags
-release = '09-06-2019'
+release = '14-09-2021'
 
 
 # -- General configuration ---------------------------------------------------
@@ -40,6 +40,7 @@ release = '09-06-2019'
 # ones.
 extensions = [
 
+    
 ]
 
 # Add any paths that contain templates here, relative to this directory.

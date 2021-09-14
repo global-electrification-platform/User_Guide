@@ -27,7 +27,7 @@ The GEP Generator can be ran locally on the user's computer without any dependen
 
 </div>
 
-## Target Audience 
+## Target Audience
 
 The GEP Generator aims to support specific key services:
 

@@ -22,12 +22,10 @@ A [peer-reviewed academic publication](https://doi.org/10.3390/en12071395) suppo
 
 </div>
 
-### Q-GIS plug-in for developing population clusters
+### Code for developing population clusters
 
-The identification of population settlements is the basis of the electrification analysis in many models.
-In GEP population settlements are represented as vector clusters. [KTH dESA](https://github.com/global-electrification-platform/Clustering) 
-has developed a methodology for generating such vector clusters based on open access data. In the interests of transparency and replicability, KTH dESA has also developed an open source [Q-GIS plug-in](https://github.com/global-electrification-platform/Clustering).
-In addition, a more detailed description of the methodology is available [here](https://doi.org/10.3390/en12071395). 
+The identification of settlements is the basis of the electrification analysis in many models.
+In GEP settlements are represented as vector clusters. KTH dES has developed a methodology for generating such vector clusters based on open access datasets. In the interests of transparency and replicability, KTH dES has also developed the supporting [open source code](https://github.com/babakkhavari/Clustering). In addition, a more detailed description of the methodology is available [here](https://www.nature.com/articles/s41597-021-00897-9?sf245151105=1). 
 
 <div class="note">
 
@@ -35,16 +33,14 @@ In addition, a more detailed description of the methodology is available [here](
 
 </div>
 
-The above methodology requires processing in
-[QGIS](https://www.qgis.org/en/site/) (an open-source GIS software).
+The above methodology requires geospatial processing in python.
 
 </div>
 
-### Q-GIS plug-in for extracting GIS information to vector clusters
+### Code for extracting GIS information to vector clusters
 
 Geospatial electrification models are inextricably connected with GIS data. Extracting geospatial information to each vector cluster (see above), is therefore a necessary yet time consuming process.
-The extraction commands can be executed manually in QGIS; however, the KTH team has developed a [QGIS plug-in](https://github.com/global-electrification-platform/Cluster-based_extraction_OnSSET) in
-order to automate the process.
+The extraction commands can be executed manually in QGIS; however, the KTH team has developed an [open source code](https://github.com/babakkhavari/OnSSET_GIS_Extraction_notebook) in order to automate the process.
 
 <div class="note">
 
@@ -69,7 +65,7 @@ and tailored to support the rapid uptake of all GEP services, including:
 
 >   - User guides and how-to-use instructions for all tools and methods (refer to each one of them on GEP's [Github page](https://github.com/global-electrification-platform))
 
->   - Education and Training material on [Google's Open Online Education platform](https://gep-education-demo.appspot.com/gep_training/course)
+>   - Education and Training material on [Google's Open Online Education platform](https://onsset.github.io/teaching_kit/)
 
 ## Target Audience
 

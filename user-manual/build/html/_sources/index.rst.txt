@@ -10,7 +10,7 @@ The 2030 Agenda for Sustainable Development has set the goal of universal access
 
 Coping with dilemmas of this nature requires thorough analysis of the social, technical and economic characteristics of each target location. This, in turn, requires access to reliable data and information e.g., location of population settlements, electricity demand levels, resource availability, poverty rate and economic activity, distance from functional infrastructure etc. Geographic Information Systems (GIS) and remote sensing techniques are becoming openly available and can now provide a range of location-specific information that has not been previously accessible.
 
-Under this framework, **The World Bank** in collaboration with **KTH dESA**, **Development Seed**, **World Resources Institute**, **Cambridge university**, **Google** and **ABB** have developed the Global Electrification Platform (GEP). The following sections provide a brief overview.
+Under this framework, **The World Bank** in collaboration with **KTH dES**, **Development Seed**, **Derilinx**, **World Resources Institute**, **Cambridge university**, **Google** and **ABB** have developed the Global Electrification Platform (GEP). The following sections provide a brief overview.
 
 Contents
 +++++++++++++++++++++

@@ -1,38 +1,39 @@
 
 
 <!DOCTYPE html>
-<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<html class="writer-html5" lang="en" >
 <head>
   <meta charset="utf-8">
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>GEP Toolbox &mdash; The GEP User Guide 09-06-2019 documentation</title>
+  <title>GEP Toolbox &mdash; The GEP User Guide 14-09-2021 documentation</title>
   
-
-  
-  
-  
-  
-
-  
-  <script type="text/javascript" src="_static/js/modernizr.min.js"></script>
-  
-    
-      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
-        <script type="text/javascript" src="_static/jquery.js"></script>
-        <script type="text/javascript" src="_static/underscore.js"></script>
-        <script type="text/javascript" src="_static/doctools.js"></script>
-        <script type="text/javascript" src="_static/language_data.js"></script>
-    
-    <script type="text/javascript" src="_static/js/theme.js"></script>
-
-    
 
   
   <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
   <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+
+  
+  
+  
+  
+
+  
+  <!--[if lt IE 9]>
+    <script src="_static/js/html5shiv.min.js"></script>
+  <![endif]-->
+  
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script src="_static/jquery.js"></script>
+        <script src="_static/underscore.js"></script>
+        <script src="_static/doctools.js"></script>
+        <script src="_static/language_data.js"></script>
+    
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+
+    
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="GEP Interoperability" href="Interoperability.html" />
@@ -50,7 +51,7 @@
           
 
           
-            <a href="index.html" class="icon icon-home"> The GEP User Guide
+            <a href="index.html" class="icon icon-home" alt="Documentation Home"> The GEP User Guide
           
 
           
@@ -60,7 +61,7 @@
             
             
               <div class="version">
-                Version 2019.0
+                Version 2021.0
               </div>
             
           
@@ -77,6 +78,7 @@
           
         </div>
 
+        
         <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
           
             
@@ -92,8 +94,8 @@
 <li class="toctree-l2"><a class="reference internal" href="#overview">Overview</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#tools-and-methods">Tools and methods</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="#the-open-source-spatial-electrification-tool-onsset">The Open Source Spatial Electrification Tool (OnSSET)</a></li>
-<li class="toctree-l3"><a class="reference internal" href="#q-gis-plug-in-for-developing-population-clusters">Q-GIS plug-in for developing population clusters</a></li>
-<li class="toctree-l3"><a class="reference internal" href="#q-gis-plug-in-for-extracting-gis-information-to-vector-clusters">Q-GIS plug-in for extracting GIS information to vector clusters</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#code-for-developing-population-clusters">Code for developing population clusters</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#code-for-extracting-gis-information-to-vector-clusters">Code for extracting GIS information to vector clusters</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#data-service-and-explorer">Data-service and explorer</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#user-guides-training-material">User guides &amp; training material</a></li>
 </ul>
@@ -110,6 +112,7 @@
             
           
         </div>
+        
       </div>
     </nav>
 
@@ -148,7 +151,7 @@
 
   <ul class="wy-breadcrumbs">
     
-      <li><a href="index.html">Docs</a> &raquo;</li>
+      <li><a href="index.html" class="icon icon-home"></a> &raquo;</li>
         
       <li>GEP Toolbox</li>
     
@@ -183,20 +186,16 @@
 In the interests of transparency and collaboration, the modelling process is open for feedback and improvements from other institutions, experts and practitioners. Based on this process, the GEP will be updated annually with improved data and processes, as well as new models.</p>
 <div class="note"><div class="admonition-title"> Note</div><p>A <a class="reference external" href="https://doi.org/10.3390/en12071395">peer-reviewed academic publication</a> supporting OnSSET modifications for GEP has been developed throughout the duration of the project and is available online since April 2019.</p>
 </div></div>
-<div class="section" id="q-gis-plug-in-for-developing-population-clusters">
-<h3>Q-GIS plug-in for developing population clusters<a class="headerlink" href="#q-gis-plug-in-for-developing-population-clusters" title="Permalink to this headline">¶</a></h3>
-<p>The identification of population settlements is the basis of the electrification analysis in many models.
-In GEP population settlements are represented as vector clusters. <a class="reference external" href="https://github.com/global-electrification-platform/Clustering">KTH dESA</a>
-has developed a methodology for generating such vector clusters based on open access data. In the interests of transparency and replicability, KTH dESA has also developed an open source <a class="reference external" href="https://github.com/global-electrification-platform/Clustering">Q-GIS plug-in</a>.
-In addition, a more detailed description of the methodology is available <a class="reference external" href="https://doi.org/10.3390/en12071395">here</a>.</p>
-<div class="note"><div class="admonition-title"> Note</div><p>The above methodology requires processing in
-<a class="reference external" href="https://www.qgis.org/en/site/">QGIS</a> (an open-source GIS software).</p>
+<div class="section" id="code-for-developing-population-clusters">
+<h3>Code for developing population clusters<a class="headerlink" href="#code-for-developing-population-clusters" title="Permalink to this headline">¶</a></h3>
+<p>The identification of settlements is the basis of the electrification analysis in many models.
+In GEP settlements are represented as vector clusters. KTH dES has developed a methodology for generating such vector clusters based on open access datasets. In the interests of transparency and replicability, KTH dES has also developed the supporting <a class="reference external" href="https://github.com/babakkhavari/Clustering">open source code</a>. In addition, a more detailed description of the methodology is available <a class="reference external" href="https://www.nature.com/articles/s41597-021-00897-9?sf245151105=1">here</a>.</p>
+<div class="note"><div class="admonition-title"> Note</div><p>The above methodology requires geospatial processing in python.</p>
 </div></div>
-<div class="section" id="q-gis-plug-in-for-extracting-gis-information-to-vector-clusters">
-<h3>Q-GIS plug-in for extracting GIS information to vector clusters<a class="headerlink" href="#q-gis-plug-in-for-extracting-gis-information-to-vector-clusters" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="code-for-extracting-gis-information-to-vector-clusters">
+<h3>Code for extracting GIS information to vector clusters<a class="headerlink" href="#code-for-extracting-gis-information-to-vector-clusters" title="Permalink to this headline">¶</a></h3>
 <p>Geospatial electrification models are inextricably connected with GIS data. Extracting geospatial information to each vector cluster (see above), is therefore a necessary yet time consuming process.
-The extraction commands can be executed manually in QGIS; however, the KTH team has developed a <a class="reference external" href="https://github.com/global-electrification-platform/Cluster-based_extraction_OnSSET">QGIS plug-in</a> in
-order to automate the process.</p>
+The extraction commands can be executed manually in QGIS; however, the KTH team has developed an <a class="reference external" href="https://github.com/babakkhavari/OnSSET_GIS_Extraction_notebook">open source code</a> in order to automate the process.</p>
 <div class="note"><div class="admonition-title"> Note</div><p>In GEP, 26 GIS layers have been used to inform vector attributes as presented <a class="reference external" href="https://drive.google.com/file/d/1O3N1vrGJtLEPN4_3_KxJDxqc4cCEo2H9/view?usp=sharing">here</a>.</p>
 </div></div>
 <div class="section" id="data-service-and-explorer">
@@ -214,7 +213,7 @@ and tailored to support the rapid uptake of all GEP services, including:</p>
 </div></blockquote>
 <blockquote>
 <div><ul class="simple">
-<li><p>Education and Training material on <a class="reference external" href="https://gep-education-demo.appspot.com/gep_training/course">Google’s Open Online Education platform</a></p></li>
+<li><p>Education and Training material on <a class="reference external" href="https://onsset.github.io/teaching_kit/">Google’s Open Online Education platform</a></p></li>
 </ul>
 </div></blockquote>
 </div>
@@ -254,11 +253,19 @@ Global Summer School on Modelling Tools for Sustainable Development</a></p></li>
 
   <div role="contentinfo">
     <p>
-        &copy; Copyright 2019, The Global Electrification Platform
+        
+        &copy; Copyright 2021, The Global Electrification Platform
 
     </p>
   </div>
-  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+    
+    
+    
+    Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a
+    
+    <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a>
+    
+    provided by <a href="https://readthedocs.org">Read the Docs</a>. 
 
 </footer>
 
@@ -269,7 +276,6 @@ Global Summer School on Modelling Tools for Sustainable Development</a></p></li>
 
   </div>
   
-
 
   <script type="text/javascript">
       jQuery(function () {
