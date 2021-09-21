@@ -18,3 +18,12 @@ More than 100 trainees have already participated in regional training efforts ho
 
 ![](images/GEP_Cap_Building_Map_complete.jpg)
 
+## Open Access Course at Open University
+
+The [Climate Compatible Growth](https://climatecompatiblegrowth.com/) (#CCG) program together with the UN, the World Bank and other International Organizations have developed a collection of online courses aiming at developing capacity for better evidence-based policy making with analysts and academics from across the world. One of the courses focuses on energy access modelling and more specifically, on the Global Electrification Platform and OnSSET. 
+
+In this course one can learn about energy access modelling and how to conduct a geospatial electrification analysis. The course serves as an introduction to the Open Source Spatial Electrification Tool (OnSSET) and offers a unique opportunity to learn about spatial data collection, cleaning, curation and use into electrification modelling. After the completion of the course, one will be able to better undestand the basic concepts of geospatial electrification modelling, build a country model from scratch and explore custom-developed electrification investment roadmaps.
+
+All material is open source and has been developed by forward-looking organizations, who know the importance of community accessibility, continuous improvement, and accountability.
+
+Learn more about this course [here](https://www.open.edu/openlearncreate/course/view.php?id=6816).
