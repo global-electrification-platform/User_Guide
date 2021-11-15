@@ -26,7 +26,7 @@ author = 'KTH dES & The World Bank'
 # The short X.Y version
 version = 'Version 2021.0'
 # The full version, including alpha/beta/rc tags
-release = '14-09-2021'
+release = '15-11-2021'
 
 
 # -- General configuration ---------------------------------------------------
@@ -87,7 +87,7 @@ html_theme = "sphinx_rtd_theme"
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
-html_static_path = ['nstatic']
+html_static_path = []
 
 # Custom sidebar templates, must be a dictionary that maps document names
 # to template names.
@@ -156,10 +156,13 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
-from recommonmark.parser import CommonMarkParser
+## For Sphinx 1.4 or newer use the following line (https://recommonmark.readthedocs.io/en/latest/#getting-started)
+extensions = ['recommonmark']
 
-source_parsers = {
-    '.md': CommonMarkParser,
-}
-
-source_suffix = ['.rst', '.md']
+## For Sphinx 1.3 or older use the following lines instead
+#from recommonmark.parser import CommonMarkParser
+#source_parsers = {
+#    '.md': CommonMarkParser,
+#}
+#
+#source_suffix = ['.rst', '.md']
