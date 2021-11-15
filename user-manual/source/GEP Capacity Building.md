@@ -12,11 +12,11 @@ So far, the following capacity building activities have been hosted as part of t
 5. Online Capacity Building in Somalia, May 2021
 6. [ICTP Online Summer School, June 2021](http://indico.ictp.it/event/9549/)
 
-More than 100 trainees have already participated in regional training efforts hosted by the World Bank. Most of the trainees were from Sub Saharan African (SSA) countries. In total, the capacity building activities received trainees from almost 20 SSA countries. This accounts for about 40 % of all SSA countries. Beyond SSA, the training sessions also received participants from other countries, such as Tunisia, Haiti, Myanmar, Brazil, Uruguay, Afganistan and Italy. 
+Close to 100 trainees have already participated in the regional trainings co-hosted by the World Bank. Most of the trainees are from Sub Saharan Africa (SSA). In total, participants from more than 30 different countries have received training so far. Ranging from Haiti, Myanmar, Sierra Leone to Burundi
 
 **Capacity building efforts since 2018**
 
-![](images/GEP_Cap_Building_Map_complete.jpg)
+![](images/GEP_Cap_Building_Map_complete.png)
 
 ## Open Access Course at Open University
 
