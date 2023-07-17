@@ -24,7 +24,7 @@ As of July 2023, 119 trainees from 40 countries have completed the GEP-OnSSET tr
 
 **GEP-OnSSET capacity building efforts between 2018-2023**
 
-![](images/GEP_Cap_Building_Map_Jul2023.png)
+![](images/GEP_Cap_Building_Map_July2023.png)
 
 ![](images/Participant_Country_Frequency.png)
 
