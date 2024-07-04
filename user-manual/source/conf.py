@@ -20,13 +20,13 @@
 # -- Project information -----------------------------------------------------
 
 project = 'The GEP User Guide'
-copyright = '2021, The Global Electrification Platform'
+copyright = '2024, The Global Electrification Platform'
 author = 'KTH dES & The World Bank'
 
 # The short X.Y version
-version = 'Version 2021.0'
+version = 'Version 2024.0'
 # The full version, including alpha/beta/rc tags
-release = '15-11-2021'
+release = '05-07-2024'
 
 
 # -- General configuration ---------------------------------------------------

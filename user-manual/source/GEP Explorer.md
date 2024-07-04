@@ -2,6 +2,19 @@
 
 ## Access GEP Explorer service [here](https://electrifynow.energydata.info/)
 
+The most up-to-date version of the GEP is V.3 (Climate GEP) launched in July 2024!
+
+<div class="note">
+
+<div class="admonition-title"> Note
+
+</div>
+
+All input and output data behind the GEP-Explorer are available at [Energydata.info](https://energydata.info/dataset/?q=GEP). Simply type the name of your country of interest
+and "GEP" in the search option, and voilà!
+
+</div>
+
 ## Overview
 
 The GEP Explorer is an open access, interactive, online platform that allows overview of electrification investment scenarios for a selection of countries. The scenarios present how to achieve universal electricity access in two steps. The first step is an outlook for an intermediate investment strategy (up to 2025). The second is explores full electrification by 2030. The user is able to easily move through 96 scenario combinations to meet the access goals.

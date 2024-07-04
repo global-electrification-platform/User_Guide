@@ -1,8 +1,8 @@
 # Capacity Building
 
-Capacity Building is a crucial component of the Global Electrification Platform (GEP). The GEP team has conducted more than 10 workshops since 2018 primarily through two annual events: the Energy Modelling Platform for Africa (EMPA) and the Summer School on Modeling Tools for Sustainable Development at ICTP (see list below). 
+Capacity Building is a crucial component of the Global Electrification Platform (GEP). The GEP team has conducted 15 workshops since 2018 primarily through three annual events: the Energy Modelling Platform for Africa (EMPA), the Energy Modelling Platform for Latin America and the Caribbean (EMPLAC) and the Energy Modelling Platform Global (EMPG) at ICTP (see detailed list below). 
 
-The goal of these events is to increase geospatial capacity across government units, academia, development partners and private sector that are actively angaged in planning, policy & decision-making for achieving critical development targets, like SDG7.
+The goal of these events is to increase geospatial analytics and modelling capacity across government units, academia, development partners and private sector that are actively angaged in planning, policy & decision-making for achieving critical development targets, like SDG7.
 
  If you are interested in participating in these events - either as trainer or trainee - please do not hesitate to contact the [GEP Team](https://gep-user-guide.readthedocs.io/en/latest/Contact.html). 
 
@@ -19,10 +19,13 @@ So far, the following capacity building activities have been hosted as part of t
 9. [EMPLAC (Virtual Training), October 2022](https://climatecompatiblegrowth.com/wp-content/uploads/2023-EMP-LAC-concept-note-english.pdf)
 10. [EMPA -- Namibia, Windhoek, April 2023](https://climatecompatiblegrowth.com/wp-content/uploads/EMP-A-2023-Concept-Note.pdf)
 11. [ICTP Summer School -- Italy, Trieste July 2023](https://indico.ictp.it/event/10186#:~:text=Secretariat%3A&text=The%20Joint%20Summer%20School%20on,from%203rd%20July%20to%2014th.)
+12. [EMPLAC (Virtual Training), January 2024](https://climatecompatiblegrowth.com/wp-content/uploads/Concept-Flyer-for-Summer-School_20230824.pdf)
+13. [EMPA -- Ghana, Accra, May 2024](https://climatecompatiblegrowth.com/emp-a-2024/)
+14. [EMPG -- Italy, Trieste August 2024](https://indico.ictp.it/event/10501)
 
-As of July 2023, 119 trainees from 40 countries have completed the GEP-OnSSET training. About 70% of the trainees are working as electrification & policy analysts in government agencies and institutions; about 20% are coming from academia and research organizations and the remaining 10% from development organizations and the private sector. Most of the participants are from Sub-Saharan Africa; trainees from Latin America & the Caribbean and Southeast Asia & the Pacific and other regions have also participated over the years.
+As of July 2024, 130 trainees from 40 countries have completed the GEP-OnSSET training. About 70% of the trainees are working as electrification & policy analysts in government agencies and institutions; about 20% are coming from academia and research organizations and the remaining 10% from development organizations and the private sector. Most of the participants are from Sub-Saharan Africa; trainees from Latin America & the Caribbean and Southeast Asia & the Pacific and other regions have also participated over the years.
 
-**GEP-OnSSET capacity building efforts between 2018-2023**
+**GEP-OnSSET capacity building efforts between 2018-2024**
 
 ![](images/GEP_Cap_Building_Map_July2023.png)
 
@@ -36,4 +39,4 @@ In this course one can learn about energy access modelling and how to conduct a 
 
 All material is open access and has been developed by forward-looking organizations, who know the importance of community accessibility, continuous improvement, and accountability.
 
-Learn more about this course [here](https://www.open.edu/openlearncreate/course/index.php?categoryid=896).
+Learn more about this course [here](https://www.open.edu/openlearncreate/course/index.php?categoryid=1267).
