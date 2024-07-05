@@ -12,4 +12,4 @@ For any questions, feedback or general inquiries please to not hesitate to conta
 
 - **Alexandros Korkovelos** --> <alex.lari.kor@gmail.com>
 - **Andreas Sahlberg** --> <andreas.sahlberg@outlook.com>
-- **Babak Khavari** --> <khavari@kth.see>
+- **Babak Khavari** --> <khavari@kth.se>
