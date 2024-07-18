@@ -12,6 +12,6 @@ formats:
   - pdf
 
 python:
-  version: "3.11.9"
+#  version: "3.11.9"
   install:
     - requirements: docs/requirements.txt
